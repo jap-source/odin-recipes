@@ -1,0 +1,48 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    background: whitesmoke;
+}
+
+h2 {
+    background: gainsboro;
+}
+
+p {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: aliceblue;
+}
+
+ul {
+    font-family: 'Lucida Console', 'Courier New', monospace;
+    background-color: lightcoral;
+    text-align: center;
+    list-style-type: none;
+}
+
+li {
+    background-color: white;
+    width: 500px;
+    display: inline-block;
+    border: solid 2px red;
+    padding: 20px;
+}
+
+a {
+    background-color: lightgreen;
+}
+
+.recipe-headers {
+    background: lightseagreen;
+    text-align: center;
+}
+
+.recipe-content {
+    background-color: beige;
+    display: block;
+    margin: 0 auto;
+}
